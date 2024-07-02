@@ -1,0 +1,46 @@
+body{
+    background-color: lightpink;
+    text-align: center;
+}
+h1{
+    color: aliceblue;
+    text-decoration: solid 5px ;
+    border-bottom:2px solid white ;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+header img {
+    width: 100px;
+}
+nav a{
+border: 2px solid lightblue;
+background-color: violet;
+text-decoration: none;
+border-radius:20px ;
+padding: 10px;
+margin: 10px;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+main img{
+    width: 600px;
+}
+ p{
+color: ivory;
+text-align: center;
+}
+footer a{
+    border: 2px solid lightblue;
+background-color: violet;
+text-decoration: none;
+border-radius:20px ;
+padding: 10px;
+margin: 10px;
+}
+p{
+    color:ivory;
+}
+
